@@ -2,12 +2,6 @@
 
 buildscript {
 
-    // 宁可在家呆一天，也不愿和你出去
-    // 你心里不应该有点数吗？
-
-    // 对不起，打扰了，
-    // 握不住的沙，不如扬了它
-
     repositories {
         google()
         maven { url 'https://jitpack.io' }
